@@ -2,7 +2,7 @@
 
 ![Preview of the theme in Panda.app](./preview.png)
 
-I have created my own [Panda](https://bear.app/alpha/♦︎) theme, which is based on the default theme and ~~a rip-off from~~ **heavily** inspired by [iA Writer](https://ia.net/writer). It uses:
+I have created my own [Panda](https://bear.app/alpha/) theme, which is based on the default theme and ~~a rip-off from~~ **heavily** inspired by [iA Writer](https://ia.net/writer). It uses:
 
 - iA Mono Writer Mono of the open source [iA-Fonts](https://github.com/iaolo/iA-Fonts)
 - A combination of the iA Writer color scheme, the original color scheme and a custom ==Highlighter== color
