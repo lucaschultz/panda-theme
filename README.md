@@ -18,7 +18,7 @@ sudo mv /Applications/Panda.app/Contents/Resources/panda.theme /Applications/Pan
 sudo mv /Applications/Panda.app/Contents/Resources/panda.theme /Applications/Panda.app/Contents/Resources/dark.theme.bak
 ```
 
-Subsequently copy[^1] the custom theme in the app bundle
+Subsequently copy (linking the files doesn't seam to work) the custom themes into the app bundle
 
 ```bash
 sudo cp path/to/repo/panda.theme /Applications/Panda.app/Contents/Resources/panda.theme
@@ -26,5 +26,3 @@ sudo cp path/to/repo/dark.theme /Applications/Panda.app/Contents/Resources/dark.
 ```
 
 Since Panda has (to the best of my knowledge) no official support for themes, updating the app will overwrite the copied custom themes.
-
-[^1]: linking the files doesn't seam to work
