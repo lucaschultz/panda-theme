@@ -11,7 +11,7 @@ I have created my own [Panda](https://bear.app/alpha/) theme, which is based on 
 
 ## Using the Theme
 
-The instructions assume you have *Panda.app* installed in the *Application* folder. First create a backup of the original (light) theme:
+The instructions assume you have *Panda.app* installed in the *Application* folder and the [iA-Fonts](https://github.com/iaolo/iA-Fonts) active. First create a backup of the original themes:
 
 ```bash
 sudo mv /Applications/Panda.app/Contents/Resources/panda.theme /Applications/Panda.app/Contents/Resources/panda.theme.bak
@@ -25,6 +25,6 @@ sudo cp path/to/repo/panda.theme /Applications/Panda.app/Contents/Resources/pand
 sudo cp path/to/repo/dark.theme /Applications/Panda.app/Contents/Resources/dark.theme
 ```
 
-Since Panda has (to the best of my knowledge) no official support for themes, updating the app will overwrite the symlink.
+Since Panda has (to the best of my knowledge) no official support for themes, updating the app will overwrite the copied custom themes.
 
 [^1]: linking the files doesn't seam to work
