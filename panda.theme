@@ -85,7 +85,7 @@
         "text size":21
       },
       {
-        "line height multiplier":1.5
+        "line height multiplier":1.75
       },
       {
         "headers":[
@@ -96,19 +96,19 @@
             "font":"iAWriterMonoS-Regular"
           },
           {
-            "modular scale":1.067
+            "modular scale":1.125
           },
           {
-            "line height multiplier":1.5
+            "line height multiplier":1.4
           },
           {
             "add top bottom padding":1
           },
           {
-            "padding top multiplier":0.5
+            "padding top multiplier":1.602
           },
           {
-            "padding bottom multiplier":0.3
+            "padding bottom multiplier":0.346
           }
         ]
       },
