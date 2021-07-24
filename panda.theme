@@ -2,13 +2,16 @@
   {
     "base":[
       {
-        "text color":"#191a19"
+        "text color":"#191919"
       },
       {
         "text secondary color":"#c6c4c2"
       },
       {
-        "background color":"#f6f7f7"
+        "text tertiary color":"#AEACAA"
+      },
+      {
+        "background color":"#ffffff"
       },
       {
         "background secondary color":"#ededed"
