@@ -175,13 +175,13 @@
       {
         "tag":[
           {
-            "background color":"$base.background tertiary color"
+            "background color":"$base.background secondary color"
           },
           {
             "text color":"$base.text color"
           },
           {
-            "marker color":"$base.text secondary color"
+            "marker color":"$base.text tertiary color"
           }
         ]
       },
